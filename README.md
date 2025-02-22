@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Octavio.
+💻 Trabajo con HTML, CSS, JavaScript y C++ para microcontroladores.  
 
-<!--
-**OctavioR17/OctavioR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Sobre mí  
+Soy un apasionado por la tecnología, el desarrollo de software y la automatización con microcontroladores. Me encanta resolver problemas y aprender nuevas tecnologías. Actualmente, me enfoco en **ESP32, IoT y redes**.  
+Mi Portafolio: https://sites.google.com/view/odrg-site/home?
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías  
+- ⚡ **IoT:** ESP32, Arduino  
+- 🌐 **Web:** HTML, CSS, JavaScript
+- 🛡️ **Intereses:** Redes (CISCO), Bases de Datos (MySQL, Derby, PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados  
+- 🔹 **[PEMCOSYS](https://github.com/OctavioR17/P-EMCOSYS)** – Sistema de Comunicación de Emergencia
+
+### 🎓 Certificaciones y Cursos  
+- 📜 **Tratamiento de Datos - Especialidad** – Capacitate para el empleo  
+- 📜 **Introducción a Redes y Seguridad** – Cisco Networking Academy  
+- 📜 **Google Cloud Computing Foundations** – Google Cloud Computing Foundations Academy  
+
+### 📫 Contacto  
+💼 LinkedIn: [https://www.linkedin.com/in/octaviorodriguezgonzalez](#)  
+📧 Email: octaviorogo17@gmail.com
