@@ -1,23 +1,30 @@
 # 👋 ¡Hola! Soy Octavio.
-💻 Trabajo con HTML, CSS, JavaScript y C++ para microcontroladores.  
+💻 Ingeniero en Computación | Development • Databases • Networking
 
 ### 🌍 Sobre mí  
-Soy un apasionado por la tecnología, el desarrollo de software y la automatización con microcontroladores. Me encanta resolver problemas y aprender nuevas tecnologías. Actualmente, me enfoco en **ESP32, IoT y redes**.  
-Mi Portafolio: https://sites.google.com/view/odrg-site/home?
+- 🎓 Egresado de Ingeniería en Computación — UAEMéx
+- 🌐 Interesado en desarrollo, bases de datos, redes y telecomunicaciones
+- ⚡ Experiencia con ESP32, servidores web e integración hardware/software
+- 🛠️ Experiencia en soporte técnico, mantenimiento e instalación de sistemas operativos
 
-### 🛠️ Tecnologías  
-- ⚡ **IoT:** ESP32, Arduino  
+### 🛠️ Tecnologías y Herramientas
+- 💻 **Lenguajes:** Java, Python
 - 🌐 **Web:** HTML, CSS, JavaScript
-- 🛡️ **Intereses:** Redes (CISCO), Bases de Datos (MySQL, Derby, PostgreSQL)
+- 🗄️ **Bases de Datos:** PostgreSQL
+- ⚙️ **Herramientas:** Git, Linux (Fedora), Docker
+- ⚡ **IoT:** ESP32, Arduino
+- 💻 **Otros:** XAMPP, Cisco Packet Tracer
 
-### 🚀 Proyectos Destacados  
+### 🚀 Proyecto Destacado 
 - 🔹 **[PEMCOSYS](https://github.com/OctavioR17/P-EMCOSYS)** – Sistema de Comunicación de Emergencia
 
 ### 🎓 Certificaciones y Cursos  
+- 📜 **Python** – Santander Open Academy
 - 📜 **Tratamiento de Datos - Especialidad** – Capacitate para el empleo  
 - 📜 **Introducción a Redes y Seguridad** – Cisco Networking Academy  
 - 📜 **Google Cloud Computing Foundations** – Google Cloud Computing Foundations Academy  
 
 ### 📫 Contacto  
-💼 LinkedIn: [https://www.linkedin.com/in/octaviorodriguezgonzalez](#)  
-📧 Email: octaviorogo17@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/octaviorodriguezgonzalez](#)  
+- 🌍 Portafolio: [https://sites.google.com/view/odrg-site/home?](#)
+- 📧 Email: octaviorogo17@gmail.com
