@@ -25,6 +25,6 @@
 - 📜 **Google Cloud Computing Foundations** – Google Cloud Computing Foundations Academy  
 
 ### 📫 Contacto  
-- 💼 LinkedIn: [https://www.linkedin.com/in/octaviorodriguezgonzalez](#)  
-- 🌍 Portafolio: [https://sites.google.com/view/odrg-site/home?](#)
+- 💼 LinkedIn: (https://www.linkedin.com/in/octaviorodriguezgonzalez) 
+- 🌍 Portafolio: (https://sites.google.com/view/odrg-site/home?)
 - 📧 Email: octaviorogo17@gmail.com
