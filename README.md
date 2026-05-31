@@ -20,6 +20,7 @@
 
 ### 🎓 Certificaciones y Cursos  
 - 📜 **Python** – Santander Open Academy
+- 📜 **Cursor con Python - Desarrollo Inteligente con IA** – Santander Open Academy
 - 📜 **Tratamiento de Datos - Especialidad** – Capacitate para el empleo  
 - 📜 **Introducción a Redes y Seguridad** – Cisco Networking Academy  
 - 📜 **Google Cloud Computing Foundations** – Google Cloud Computing Foundations Academy  
